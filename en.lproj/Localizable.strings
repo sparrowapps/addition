@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  addition
+
+  Created by 최준호 on 11. 12. 18..
+  Copyright (c) 2011년 SPARROWAPPS. All rights reserved.
+*/
+//NSLocalizedString(@"Game Over", @"")
+"Game Over" = "Game Over";
+
+//NSLocalizedString(@"OK", @"")
+"OK" = "OK";
+
+//NSLocalizedString(@"Complete", @"")
+"Complete" = "Complete";
+
+//NSLocalizedString(@"Your score", @"")
+"Your score" = "Your score are %i !";
+
+"NextLevel" = "Now go next level !";
+
+"Retry" = "Retry";
+"Resume" = "Resume";
+"NewGame" = "New Game";
+"Leaderboard" = "Leaderboard";
+
+"GameTitle" = "Adding Man!";

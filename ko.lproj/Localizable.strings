@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  addition
+
+  Created by 최준호 on 11. 12. 18..
+  Copyright (c) 2011년 SPARROWAPPS. All rights reserved.
+*/
+//NSLocalizedString(@"Game Over", @"")
+"Game Over" = "게임오버";
+
+//NSLocalizedString(@"OK", @"")
+"OK" = "확인";
+
+//NSLocalizedString(@"Complete", @"")
+"Complete" = "성공";
+
+//NSLocalizedString(@"Your score", @"")
+"Your score" = "당신의 점수는 %i !";
+
+"NextLevel" = "다음 단계 !";
+
+"Retry" = "다시하기";
+"Resume" = "계속";
+"NewGame" = "새 게임";
+
+"Leaderboard" = "점수판";
+
+"GameTitle" = "닥치고 덧셈";
